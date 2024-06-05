@@ -1,0 +1,15 @@
+[submodule "Tinder_Survey_Project"]
+	path = Tinder_Survey_Project
+	url = https://github.com/Francois-Berret/Tinder_Survey_Project.git
+[submodule "Data_Collection_And_Management_Project"]
+	path = Data_Collection_And_Management_Project
+	url = https://github.com/Francois-Berret/Data_Collection_And_Management_Project.git
+[submodule "Machine_Learning_Projects"]
+	path = Machine_Learning_Projects
+	url = https://github.com/Francois-Berret/Machine_Learning_Projects.git
+[submodule "Deep_Learning_Project"]
+	path = Deep_Learning_Project
+	url = https://github.com/Francois-Berret/Deep_Learning_Project.git
+[submodule "GetAround_Project"]
+	path = GetAround_Project
+	url = https://github.com/Francois-Berret/GetAround_Project.git
